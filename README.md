@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mrida Pradhan!</h1>
-<h3 align="center">🎓 CS Student | 👩🏽‍💻 Development, ML, System Design </h3>
+<h3 align="center">🎓 CS Student | 👩🏽‍💻 Development, ML, System Design | 🧩 Logic Puzzle Enthusiast</h3>
 <h4 align="center">I'm always on the lookout for a balance between explainability and functionality in AI! </h4>
 
 <p align="center">
