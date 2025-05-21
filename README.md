@@ -8,9 +8,9 @@
 
 ---
 
-### 🔧 Tech Stacks I Use & Love
+### 🔧 Tech Stacks I Use and Love
 
-#### 🤖 AI/ML & Data
+#### 🤖 AI/ML & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,pandas" />
 </p>
@@ -32,7 +32,7 @@
 
 ---
 
-### 🌱 Projects I’m Proud Of
+### 🌱 Projects I'm Proud Of [There are more on my profile!]
 
 - 🥗 **BiteBot** – Personalized recipe generator using LLMs, nutrition APIs, and specific user preferences. Selected for the Unisys Innovation Program Y16.
 - 🩺 **Agent2Agent Medical Triage System** – Multi-modal tool combining Gemini ADK, CNNs, vector search & FastAPI for efficient healthcare triage.
