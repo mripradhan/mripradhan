@@ -17,7 +17,7 @@
 
 #### ⚙️ Backend & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,mysql,postgres,mongodb,vercel,railway,aws" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,mysql,postgres,mongodb,vercel,aws" />
 </p>
 
 #### 🌐 Web & App
